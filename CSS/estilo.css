@@ -1,0 +1,9 @@
+@font-face {
+        font-family: "Myfonte";
+        src: url("../FONTE/MinecraftTen-VGORe.ttf") format("truetype");
+}        
+.fonteMine{
+    font-family: "Myfonte", sans-serif;
+    font-size: 20px
+}
+
